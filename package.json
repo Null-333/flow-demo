@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "flow-bin": "^0.173.0"
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.5",
+    "@babel/preset-flow": "^7.16.7",
+    "flow-bin": "^0.173.0",
+    "flow-remove-types": "^2.173.0"
   }
 }
